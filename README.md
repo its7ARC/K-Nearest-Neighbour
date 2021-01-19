@@ -1,5 +1,5 @@
 # K-Nearest-Neighbour
-Implementation of KNN algorithm for recognition of handwritten digits  
+Implementation of KNN algorithm for recognition of handwritten digits 
 
 Algorithm
   - Start
@@ -11,4 +11,6 @@ Algorithm
   - S6 -> Return label with maximum count
   - End
   
-Dataset: https://www.kaggle.com/oddrationale/mnist-in-csv
+Model Accuracy : 79% on 12000 images
+  
+Dataset Used: https://www.kaggle.com/oddrationale/mnist-in-csv
